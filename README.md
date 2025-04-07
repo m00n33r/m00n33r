@@ -1,6 +1,10 @@
-## Hi there 👋
+## 
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=m00n33r)](https://github.com/LordDashMe/github-contribution-stats/)
+<p align="center">
+  <a href="https://github.com/LordDashMe/github-contribution-stats/">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=m00n33r" />
+  </a>
+</p>
 
 <!--
 **m00n33r/m00n33r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
