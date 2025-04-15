@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/LordDashMe/github-contribution-stats/">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=m00n33r" />
+    <img src="https://github-contribution-stats.vercel.app/api/?username=m00n33r" alt="refresh this page :)" />
   </a>
 </p>
 
